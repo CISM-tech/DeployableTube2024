@@ -1,1 +1,1 @@
-# DeployableTube2024
+These data and codes are supplementary materials for the following paper: Ting-Uei Lee, et al. "Self-locking and stiffening deployable tubular structures", PNAS (2024).
